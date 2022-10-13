@@ -6,3 +6,6 @@
 - dry yeast
 - teaspoon salt
 - 2 cups water
+
+
+Mix everything.
